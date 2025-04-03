@@ -33,6 +33,7 @@
 		return b.join('');
 
 	};
+	<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 
 	/**
 	 * Panel-ify an element.
