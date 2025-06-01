@@ -16,11 +16,9 @@ and thoroughly commented code for your editing pleasure (with instructions!
 
 Many thanks to my good friends Felicia Simion (ineedchemicalx.deviantart.com)
 and Michael Domaradzki (md.photomerchant.net) for allowing me to use their amazing
-photos in Big Picture's demo*.
+photos in Big Picture's demo.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT
-download and/or use any of Felicia's or Michael's work without their explicit
-permission!)
+
 
 AJ
 aj@lkn.io | @ajlkn
